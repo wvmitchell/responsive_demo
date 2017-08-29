@@ -1,0 +1,32 @@
+/*
+ * - set font for body
+ * - give header background color, height, margin-bottom, and align the txt
+ * - give the nav top padding, change the color on hover, change the cursor
+ */
+
+/*
+ * - give container height and margin (400px, 0 auto)
+ * - main content needs same height, width (25/75%), background, and left float
+ * - secondary content needs the same, but float right
+ * - footer needs background, height, margin, padding, and text align
+ */
+
+/*
+ * Add meta tag to html <meta name="viewport" content="width=device-width, initial-scale=1">
+ */
+
+/*
+ * Screens larger than 900px have content sections that are too wide
+ *
+ * - set media query for screens with a min width of 900px
+ * - check that it works with a background
+ * - set the container width to 90%
+ */
+
+/*
+ * Screens less than 550px look sad, everything gets squished, so lets stack
+ * 
+ * - set media query for screens with a max width of 550px
+ * - set the container height to 100%
+ * - for the content, remove floats, add height of 400px and 200px, and set width to full
+ */
